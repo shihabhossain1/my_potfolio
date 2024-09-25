@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shihabhossain1/me/static/css/main.254e6a3a.css",
+    "main.js": "/shihabhossain1/me/static/js/main.2c19b726.js",
+    "index.html": "/shihabhossain1/me/index.html",
+    "main.254e6a3a.css.map": "/shihabhossain1/me/static/css/main.254e6a3a.css.map",
+    "main.2c19b726.js.map": "/shihabhossain1/me/static/js/main.2c19b726.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.254e6a3a.css",
+    "static/js/main.2c19b726.js"
+  ]
+}

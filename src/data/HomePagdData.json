@@ -1,0 +1,277 @@
+{
+  "hero": {
+    "imgUrl": "/images/cv_profile.png",
+    "name": "Shihab Hossain",
+    "heading": "Hay! I’m Shihab",
+    "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500],
+    "description": "Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment.",
+    "btnText": "Check CV",
+    "btnUrl": "https://shihabhossain1.github.io/"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "/"
+    },
+    { "icon": "fa-brands:dribbble", "iconBgClass": "dribbble", "href": "/" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/logo_white.png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/logo-m.png",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about.jpg",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>Python and Django</span> PROJECTS",
+    "description": "Hey I'm Shihab Hossain and I'm giving service of Web design & development on Python Django, Flask, Django Rest Framework, Vue js and bootstrap. My code is always SEO-friendly and clean Code To ensure The eest User Experience, I'm also a server management expert.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 280
+      },
+      {
+        "title": "Years Experience",
+        "number": 2
+      },
+      {
+        "title": "Awward Winning",
+        "number": 39
+      }
+    ],
+    "btnText": "Download CV",
+    "btnUrl": "https://shihabhossain1.github.io/"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popup-1.jpg",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "Python, HTML, CSS, JS",
+          "platform": "Django",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/p-ten.png",
+        "title": "Website Development",
+        "subTitle": "Web Development, App Development",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "python, HTML, CSS, JS",
+          "platform": "Django",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/pop-2.png",
+        "title": "Dashboard Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "Python, HTML, CSS, JS",
+          "platform": "Django",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-3.jpg",
+        "title": "Mobile App Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-5.jpg",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-6.jpg",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br>xcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "platform": "WordPress",
+          "country": "USA",
+          "url": "www.example.com"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Development <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.png",
+        "title": "Website Development",
+        "subTitle": "Building dynamic and robust web applications using Python Django, focusing on scalable backend solutions, secure authentication, and responsive front-end designs.",
+        "icon": "bi:code-square",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.png",
+        "title": "Website Design",
+        "subTitle": "Designing modern, responsive websites that blend aesthetics with functionality,like Html,css,js ensuring a seamless user experience across all devices and platforms.",
+        "icon": "bi:brush-fill",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.png",
+        "title": "Server Admistration",
+        "subTitle": "Managing and optimizing Linux Ubuntu servers for secure, reliable, and high-performance infrastructure, ensuring seamless operation and maintenance.",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.png",
+        "title": "App Development",
+        "subTitle": "Building high-performance responsive, cross-platform applications using Dart and Flutter, delivering seamless user experiences on both iOS and Android devices.",
+        "icon": "bi:code-slash",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Back-end Developer",
+        "company": "Mohuls Soft Limited",
+        "duration": "JAN 2022 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Mohuls Soft Limited is a dynamic and innovative technology company dedicated to providing cutting-edge software solutions. Established with the vision of empowering businesses through technology, we specialize in developing robust web and mobile applications tailored to our clients' unique needs. Our team of experienced developers and designers work collaboratively to deliver high-quality products that enhance operational efficiency and drive growth."
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "WELAB | REMOTE",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "WELAB | REMOTE",
+        "duration": "JAN 2019 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Shihab Hossain is a highly skilled Python Django developer whose expertise greatly contributes to the success of our projects. His deep understanding of Django's frameworks and principles allows him to build efficient, scalable, and robust web applications. Shihab consistently demonstrates a remarkable ability to solve complex problems with innovative solutions, making him an invaluable asset to our team.     I wholeheartedly recommend Shihab Hossain for any Python Django development roles. His talent and dedication will undoubtedly lead to outstanding results.",
+        "avatarImg": "/images/avatar-1.png",
+        "avatarName": "Mehrab Mohul",
+        "avatarCompany": "Mohul Soft Limited"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Al amin",
+        "avatarCompany": "unique business world"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact-us.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "shihab.hossain267@gmail.com" },
+      { "title": "write an e-mail", "tel": "01327-842658" }
+    ]
+  }
+}
